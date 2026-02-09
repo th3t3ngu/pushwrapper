@@ -1,6 +1,6 @@
 # PushWrap
 
-Pushwrap is a simple wrapper for [simplepush.io](https://simplepush.io) that monitors any CLI command and sends a push notification upon completion (either success or failure).
+Pushwrap is a simple wrapper for [simplepush.io](https://simplepush.io) that monitors any CLI command and sends a push notification upon completion (either success or failure). Its similiar to [ntfy](https://github.com/binwiederhier/ntfy), but much less complex and easier to set up. 
 
 ## Setup
 Generate a key on simplepush.io and create two events: "success" and "error" (you can also define different notification types for each event).
