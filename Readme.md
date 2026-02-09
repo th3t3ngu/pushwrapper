@@ -54,7 +54,7 @@ I mainly use it in the context of lengthy, difficult-to-predict tasks such as pa
 ## Tricks
 Create an alias in your bash/zsh environment, so you can call the wrapper more easily. For example:
 ```bash
-p='pushwrap --push-key KEY -- '
+p='/LOCATION/pushwrap.py --push-key KEY -- '
 ```
 so you can call the wrapper just with
 ```bash
