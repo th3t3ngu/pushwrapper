@@ -60,3 +60,4 @@ so you can call the wrapper just with
 ```bash
 p sudo pacman -Syyuu
 ```
+This has the advantage that the wrapper can interact with other aliases in your environment, and you don't have to install `pushwrap.py` to `/usr/local/bin` - but you still have to make it executable with `chmod +x`.
