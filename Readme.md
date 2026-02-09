@@ -11,7 +11,7 @@ Install the script by saving it to `/usr/local/bin/pushwrap`.
 sudo cp pushwrap.py /usr/bin/local/pushwrap
 ```
 Then make it executable:
-````bash
+```bash
 sudo chmod +x /usr/bin/local/pushwrap
 ```
 And it's ready to use.
